@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaivik-chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jaivik-chauhan" /> </p>
-<img src="https://www.lambdatest.com/resources/images/news24.gif" width="450" alt="coding" align="right">
+<img src="https://www.lambdatest.com/resources/images/news24.gif" width="400" alt="coding" align="right">
 - 🔭 I’m currently working on **Snack Leader Game**
 
 - 🌱 I’m currently learning **Frameworks & app development course**
