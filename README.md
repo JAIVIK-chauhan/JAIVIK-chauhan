@@ -1,3 +1,4 @@
+<p aligh="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://user-images.githubusercontent.com/129761207/230762006-9ab9f5c9-5e52-4ed5-9afc-28a6bb60478d.gif" height="350" width="850"></p>
 <h1 align="center">Hi 👋, I'm JAIVIK chauhan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
