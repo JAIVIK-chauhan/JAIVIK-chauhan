@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jaivik_chauhan_01" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="50" /></a>
+&nbsp;&nbsp;<a href="https://discord.gg/#9174" target="blank"><img align="center" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" alt="#9174" height="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
