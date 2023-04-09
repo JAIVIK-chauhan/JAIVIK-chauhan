@@ -28,8 +28,8 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=jaivik-chauhan&show_icons=true&locale=en" alt="jaivik-chauhan" /><img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaivik-chauhan&" alt="jaivik-chauhan" /></p>
 <hr><br>
 <h1><p align="center">My Success in Computer WORLD 🌍 ...!!!!</p></h1><hr>
-<p><img src="https://user-images.githubusercontent.com/129761207/230763641-8ee8a589-ff23-4b46-80a9-0659179c99e4.jpg" width="49%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/129761207/230763648-e44b06f2-7de5-4852-a0f3-c6a234310ad0.jpg" width="49%" height="677"><br><br>
-<img src="https://user-images.githubusercontent.com/129761207/230765146-7735081f-00f6-4507-8a76-b19c7a5ed8da.jpg" height="400">&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/129761207/230765630-f5093e87-8e55-4e2c-80cc-609ebdb8625c.jpg" height="400"></p>
+<p><img src="https://user-images.githubusercontent.com/129761207/230763641-8ee8a589-ff23-4b46-80a9-0659179c99e4.jpg" width="49%">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/129761207/230763648-e44b06f2-7de5-4852-a0f3-c6a234310ad0.jpg" width="49%" height="600"><br><br>
+<img src="https://user-images.githubusercontent.com/129761207/230765146-7735081f-00f6-4507-8a76-b19c7a5ed8da.jpg" height="400">&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/129761207/230765630-f5093e87-8e55-4e2c-80cc-609ebdb8625c.jpg" height="400"></p>
 <hr><hr>
 <h1><p align="center">" WorkHard in Silence....<br>
   Let Your Success make the Noice...💫 "</p></h1>
