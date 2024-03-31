@@ -16,9 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://localhost/Test/insta.php" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="50" /></a>
+<a href="http://localhost/Test/insta.php" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="55" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" alt="#9174" height="55" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jaivik-chauhan-2b68872b9/" target="blank"><img align="center" src="https://www.svgrepo.com/show/183624/linkedin.svg" alt="#9174" height="55" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="#9174" height="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
