@@ -14,15 +14,15 @@
 
 - ⚡ Fun fact **I think I'm Funny.. 😅**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="http://localhost/Test/insta.php" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" height="55" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://seeklogo.com//images/D/discord-logo-134E148657-seeklogo.com.png" alt="#9174" height="55" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/jaivik-chauhan-2b68872b9/" target="blank"><img align="center" src="https://www.svgrepo.com/show/183624/linkedin.svg" alt="#9174" height="55" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="#9174" height="55" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="#9174" height="50" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="50" height="50"/>  </a>     &nbsp;      <a href="https://www.w3schools.com/css🌍/" target="_blank" rel="noreferrer"> &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="45"/>    </a> &nbsp; <a href="https://www.java.com" target="_blank" rel="noreferrer">&nbsp;  <img src="https://upload.wikimedia.org/wikipedia/ml/thumb/2/2e/Java_Logo.svg/550px-Java_Logo.svg.png" alt="java"  height="59" width="40"/> </a> &nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/1200px-Javascript_badge.svg.png" alt="javascript" width="50" height="50"/>  &nbsp;</a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="50"/>  </a>&nbsp; </p><br>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaivik-chauhan&show_icons=true&locale=en&layout=compact" alt="jaivik-chauhan" />&nbsp;<br>
